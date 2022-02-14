@@ -1,4 +1,4 @@
-# MP-LiDAR
+# MP-LiCounter
 
 UZH Master Project June 2021 - Feb 2022
 
