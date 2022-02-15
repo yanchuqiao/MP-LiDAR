@@ -24,3 +24,7 @@ This file can be used to run Deep Sort tracking. Download and run this in comman
 conda activate tracker-gpu
 
 python object_tracker1.py --output ./data/video/results.avi --weights ./weights/yolov3-custom.tf --num_classes 1 --classes ./data/labels/obj.names
+
+
+# Reference
+https://github.com/theAIGuysCode/YOLOv3-Cloud-Tutoria
