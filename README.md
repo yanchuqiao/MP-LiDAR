@@ -7,6 +7,7 @@ Jiaqi Zhang, Chuqiao Yan
 LiCounter: A method for LiDAR Based Counting Method 
 
 ## Files
+### Contained in Train Yolov3 Model.zip
 Due to the storage space, the training files has beed saved locally
 
 + Images can be downloaded here: https://drive.google.com/drive/folders/163ZHOsOfUeV_i58GCSPZEvy_OeKVVeTg?usp=sharing
