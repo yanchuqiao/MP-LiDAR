@@ -18,5 +18,5 @@ Due to the storage space, the training files has beed saved locally
 
 + color_img_1632124522.891653.jpg is the image used to test detector
 
-
+### Contained in DeepSort.zip
 
