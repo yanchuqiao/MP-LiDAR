@@ -2,7 +2,7 @@
 
 UZH Master Project June 2021 - Feb 2022
 
-Jiaqi Zhang, Chuqiao Yan 
+Jiaqi Zhang (20-740-213), Chuqiao Yan (20-740-619)
 
 LiCounter: A method for LiDAR Based Counting Method 
 
