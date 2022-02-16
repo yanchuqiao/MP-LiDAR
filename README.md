@@ -27,6 +27,6 @@ python object_tracker1.py --output ./data/video/results.avi --weights ./weights/
 
 
 ## Reference
-https://github.com/theAIGuysCode/YOLOv3-Cloud-Tutoria
+https://github.com/theAIGuysCode/YOLOv3-Cloud-Tutorial
 
 https://github.com/theAIGuysCode/YOLOV3deepsort
